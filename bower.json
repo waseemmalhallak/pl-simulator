@@ -1,0 +1,24 @@
+{
+  "name": "premier-league",
+  "description": "premier-league simulator",
+  "main": "",
+  "authors": [
+    "Waseem Alhallak <alhallak.waseem@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "components-font-awesome": "^5.0.6",
+    "highcharts": "^6.1.0"
+  }
+}
